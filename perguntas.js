@@ -1,23 +1,23 @@
 criaCartao(
-    'Felicidades',
-    'O que precisa para ser feliz?',
-    ' Fazer o que gosta!!!'
+    'Responsábilidade',
+    'Como não gastar todo o dinheiro?',
+    'Seja organizado e realize belos investimentos'
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'Comida',
+    'Como evitar espinhas?',
+    'Evite comer muito doce'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'Lazer',
+    'Qual é o melhor hobby',
+    'Jogar vôlei e relaxar com os amigos'
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    'Emprego',
+    'Como arrumar um emprego?',
+    'Seja honesto e esteja disposto dar seu melhor em seu serviço'
 )
